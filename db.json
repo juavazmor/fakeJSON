@@ -62,29 +62,28 @@
                "urlkey":"spanish-culture",
                "name":"Cultura española",
                "id":19169
+            },  
+            {  
+               "urlkey":"english-language",
+               "name":"Inglés",
+               "id":25698
             },
             {  
-               {  
-                  "urlkey":"english-language",
-                  "name":"Inglés",
-                  "id":25698
-               },
-               {  
-                  "urlkey":"language-exchange",
-                  "name":"Intercambio lingüístico",
-                  "id":26212
-               },
-               {  
-                  "urlkey":"international-friends",
-                  "name":"Amigos internacionales",
-                  "id":50881
-               },
-               {  
-                  "urlkey":"culture-exchange",
-                  "name":"Intercambio cultural",
-                  "id":67622
-               }
-            ],
+               "urlkey":"language-exchange",
+               "name":"Intercambio lingüístico",
+               "id":26212
+            },
+            {  
+               "urlkey":"international-friends",
+               "name":"Amigos internacionales",
+               "id":50881
+            },
+            {  
+               "urlkey":"culture-exchange",
+               "name":"Intercambio cultural",
+               "id":67622
+            }
+         ],
             "link":"http://www.meetup.com/Language-Exchange-Madrid/",
             "rating":4.67,
             "description":"WELCOME, BIENVENIDOS to the oldest, most international, crowded and active Meetup group in Madrid!",
