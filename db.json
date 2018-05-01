@@ -1,0 +1,138 @@
+{  
+   "results":[  
+      {  
+         "utc_offset":7200000,
+         "country":"ES",
+         "visibility":"public",
+         "city":"Madrid",
+         "timezone":"Europe/Madrid",
+         "created":1034097748000,
+         "topics":[  
+            {  
+               "urlkey":"spanish",
+               "name":"Idioma español",
+               "id":183
+            },
+            {  
+               "urlkey":"french",
+               "name":"Idioma francés",
+               "id":185
+            },
+            {  
+               "urlkey":"newintown",
+               "name":"Nuevo en la ciudad",
+               "id":1273
+            },
+            {  
+               "urlkey":"nightlife",
+               "name":"Vida nocturna",
+               "id":4392
+            },
+            {  
+               "urlkey":"socialnetwork",
+               "name":"Hacer contactos",
+               "id":4422
+            },
+            {  
+               "urlkey":"language",
+               "name":"Idioma y cultura",
+               "id":10454
+            },
+            {  
+               "urlkey":"social",
+               "name":"Vida social",
+               "id":10581
+            },
+            {  
+               "urlkey":"fun-times",
+               "name":"Diversión",
+               "id":15117
+            },
+            {  
+               "urlkey":"dancing",
+               "name":"Baile",
+               "id":17571
+            },
+            {  
+               "urlkey":"eating-drinking-talking-laughing-etc",
+               "name":"Comer, beber, hablar, reír, etc.",
+               "id":19130
+            },
+            {  
+               "urlkey":"spanish-culture",
+               "name":"Cultura española",
+               "id":19169
+            },
+            {  
+               {  
+                  "urlkey":"english-language",
+                  "name":"Inglés",
+                  "id":25698
+               },
+               {  
+                  "urlkey":"language-exchange",
+                  "name":"Intercambio lingüístico",
+                  "id":26212
+               },
+               {  
+                  "urlkey":"international-friends",
+                  "name":"Amigos internacionales",
+                  "id":50881
+               },
+               {  
+                  "urlkey":"culture-exchange",
+                  "name":"Intercambio cultural",
+                  "id":67622
+               }
+            ],
+            "link":"http://www.meetup.com/Language-Exchange-Madrid/",
+            "rating":4.67,
+            "description":"WELCOME, BIENVENIDOS to the oldest, most international, crowded and active Meetup group in Madrid!",
+            "lon":-3.7100000381469727,
+            "group_photo":{  
+               "highres_link":"http://photos1.meetupstatic.com/photos/event/1/f/7/4/highres_202088052.jpeg",
+               "photo_id":202088052,
+               "photo_link":"http://photos1.meetupstatic.com/photos/event/1/f/7/4/600_202088052.jpeg",
+               "thumb_link":"http://photos1.meetupstatic.com/photos/event/1/f/7/4/thumb_202088052.jpeg"
+            },
+            "join_mode":"open",
+            "organizer":{  
+               "member_id":240168,
+               "name":"David",
+               "photo":{  
+                  "highres_link":"http://photos4.meetupstatic.com/photos/member/a/c/7/a/highres_644154.jpeg",
+                  "photo_id":644154,
+                  "photo_link":"http://photos2.meetupstatic.com/photos/member/a/c/7/a/member_644154.jpeg",
+                  "thumb_link":"http://photos4.meetupstatic.com/photos/member/a/c/7/a/thumb_644154.jpeg"
+               }
+            },
+            "members":7104,
+            "name":"Spanish & International Friends in Madrid LANGUAGE EXCHANGES",
+            "id":146102,
+            "urlname":"Language-Exchange-Madrid",
+            "category":{  
+               "name":"language/ethnic identity",
+               "id":16,
+               "shortname":"language"
+            },
+            "lat":40.41999816894531,
+            "who":"International talkers"
+         }
+      ],
+      "meta":{  
+         "next":"https://api.meetup.com/2/groups?offset=1&sign=True&format=json&lon=-3.608977&photo-host=public&page=1&radius=25.0&fields=&lat=40.396916&order=id&desc=false",
+         "method":"Groups",
+         "total_count":1215,
+         "link":"https://api.meetup.com/2/groups",
+         "count":1,
+         "description":"None",
+         "lon":-3.608977,
+         "title":"Meetup Groups v2",
+         "url":"https://api.meetup.com/2/groups?offset=0&sign=True&format=json&lon=-3.608977&photo-host=public&page=1&radius=25.0&fields=&lat=40.396916&order=id&desc=false",
+         "signed_url":"https://api.meetup.com/2/groups?offset=0&format=json&lon=-3.608977&photo-host=public&page=1&radius=25.0&fields=&lat=40.396916&order=id&desc=false&sig_id=183979886&sig=5ee3c7065843371486762c65fcd419913edb4c26",
+         "id":"",
+         "updated":1465226367000,
+         "lat":40.396916
+      }
+   }
+}
